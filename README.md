@@ -1,6 +1,6 @@
 # Project-MemoryCard
 
-## <b> [Click here to Play the GAME!!](https://nmnkmr.github.io/Project-MemoryCard/)
+## <b> [Click here to Play the GAME!!](https://vivek7i.github.io/MemoryCard/)
 
 This project is made using HTML,CSS &amp; JavaScript.
 
